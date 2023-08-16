@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "data": {
+        "id": 12,
+        "name": "customer name",
+        "total_customer": 4,
+        "position": 12,
+        "r_id": 14
+    }
+}

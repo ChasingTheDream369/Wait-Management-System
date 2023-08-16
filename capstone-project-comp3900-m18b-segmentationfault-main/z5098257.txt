@@ -1,0 +1,95 @@
+Week 1:
+
+Join the group. Hard learning JavaScript, React, Redux ToolKit, TypeScript in this week. Finish kitchen staff's user story, objective, 
+flow diagram. Help with project's background and existing business analysis.
+
+-- What to do next :
+-- Continue contributing to the written proposal, as it will in due soon.
+-- Decide dive into the actually development of frontend. Even though have learnt a lot during this week, i still has no experience with
+it. Start early asap.
+
+
+Week 2:
+
+Finish select restaurant feature on Welcome Page. Finish the login part for staffs. Finish all frontend layout for Kitchen part. Waiting backend API to implement further. 
+Discuss with backend members the design of database (ER diagram). Dive into third part React UI library and tried to implement.
+
+-- What to do next:
+	Looking into how frontend interacted with backend
+	Discover possible usage of Redux-toolkit -- I'm unfamiliar with it and have no experience with it until now.
+
+-- Technical obstacle:
+	Third party React UI library is hard to use. There are lots of properties related with them, and manual usually doesn't introduce them in detail.
+
+-- How to overcome:
+	Be honest no idea. I google the problem if i met any, or ask our frontend part leader. The layout (UI design) of webpage requires quite a lot
+	experience, i am not sure if i can handle in this short time.
+
+Week 3:
+
+With Taohan together, finishing sprint 1 customer's API. Added API for kitchen staffs. I believe we are already one sprint ahead the planning.
+Using backend test frontend's working and debug.
+
+-- What to do next:
+	Going finish the staff's all API ( kitchen and waiters), continuous testing if any bug happened.
+	Start making pages for managers.
+-- Technical obstacle:
+	Not yet.
+
+Week 4:
+
+Another week use backend and frontend together to find potential bugs and fix them. Finish main page for manager. Update kitchen staff and waiter's 
+API. Decide what to do on week 5.
+
+-- What to do next:
+	Go finish frontend and backend communication for sprint2. Plus the staff member authorization and registration.
+
+Week 5:
+
+Finish all Sprint 2 parts, now all APIs for both kitchen staff and waiter connecting and working with backend. 
+Plus the Login authorization and registration (Sprint 3). Make another manager main page, need further refactor on the page ui.
+
+--What to do next:
+	Investigate how to do react router for manager main page ( Using navigator slide bar)
+-- Technical obstacle:
+	Confused how to do manager main page content changing based on click different parts of navigate bar.
+
+Week 6:
+
+Another week fix previous bugs and continue testing with backend. 
+Parts belongs to me (coding parts) are done. Perhaps have more tasks to do in future.
+Take a break, got too many stuff on other courses.
+
+--What to do next:
+	After Taohan finish the left of sprint 3, will try to find and fix potential bugs existed in the system.
+	Prepare the sreport sections.
+	
+Week 7:
+
+Practise sprint2 demo presentation. During the demo find some existing bugs and help with fix.
+Since most part of coding is done, nothing much to do. Will work on report from now on.
+
+--What to do next:
+	Report ?
+ 
+Week 8:
+
+Discussed some design problem related with sprint3 -- the add/remove of table/items/categories etc.
+Join Retro B meeting and try to find anything to improve.
+Further test current system to check any exist bugs.
+Read through report requirement and decide what to do.
+Not coding this week since sprint 3 is almost done with frontend work. Put time into other courses.
+
+Week 9:
+
+Finish table management frontend part.
+Fix some previous issues in frontend.
+Help with debug.
+Finish parts of report the team master assigned to me
+
+--What to do Next:
+	Monday Report Final Demo
+	Further check frontend to see any improvemnts.
+	Finish final report
+
+

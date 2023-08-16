@@ -1,0 +1,45 @@
+{
+    "name": "wait-manager",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite --mode dev",
+        "test": "concurrently \"vite --mode test\" \"python3 ../back-end/app.py\"",
+        "build": "tsc && vite build",
+        "preview": "vite preview",
+        "data": "python3 ../back-end/run.py"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^4.7.0",
+        "@emotion/react": "^11.10.4",
+        "@emotion/styled": "^11.10.4",
+        "@mui/material": "^5.10.4",
+        "@reduxjs/toolkit": "^1.8.5",
+        "@vitejs/plugin-basic-ssl": "^0.1.2",
+        "antd": "^4.23.2",
+        "axios": "^0.27.2",
+        "bcrypt": "^5.0.1",
+        "echarts": "^5.4.0",
+        "echarts-for-react": "^3.0.2",
+        "framer-motion": "^7.3.5",
+        "jsencrypt": "^3.2.1",
+        "lodash": "^4.17.21",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-icons": "^4.4.0",
+        "react-redux": "^8.0.2",
+        "react-router-dom": "^6.3.0",
+        "react-sortable-hoc": "^2.0.0"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.186",
+        "@types/node": "^18.7.16",
+        "@types/react": "^18.0.17",
+        "@types/react-dom": "^18.0.6",
+        "@vitejs/plugin-react": "^2.1.0",
+        "concurrently": "^7.4.0",
+        "typescript": "^4.6.4",
+        "vite": "^3.2.3"
+    }
+}

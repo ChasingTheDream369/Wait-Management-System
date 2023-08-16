@@ -1,0 +1,22 @@
+{
+    "orders_Kitchen": [
+        {
+            "orderID": 0,
+            "tableName": "A1",
+            "itemName": "Chicken Soup",
+            "quantity": 3
+        },
+        {
+            "orderID": 1,
+            "tableName": "A1",
+            "itemName": "Spicy Oil Soup",
+            "quantity": 2
+        },
+        {
+            "orderID": 2,
+            "tableName": "A1",
+            "itemName": "Mushroom Soup",
+            "quantity": 3
+        }
+    ]
+}

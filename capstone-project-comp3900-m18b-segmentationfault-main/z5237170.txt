@@ -1,0 +1,58 @@
+Week1 
+
+Formed the groups and decide the project topic that we want. 
+Then joining the Jira. 
+Then write some user stories, help with background and analysis app advantages and drawbacks. 
+Fix the format of proposal up and write some ideas about external actors. 
+
+What to do next: continue working on the proposal and try to establish database early. 
+
+Week 2
+
+Had several meetings with group members to discuss ER diagram and design. Once finishing that, trying to fix some user stories in jira to match our design with group. 
+After that, changed the user stories and screenshots for proposal. Had a meeting with scrum master to fix the database that created with sql alchemy and then do some basic routes using flask.
+
+What to do next:
+Finish the project proposal and get some required functions done in the backend. Trying to complete all customer user stories in the backend.
+
+Week 3
+Trying to fix database and ER diagram to suit our design. Start working on sprint 1 backend routes.  Take several meetings with backend group members to talk about how to design customer routes and how to handle error conditions. After we finish all routes for customer, we create some fake data and use Advanced Rest client to test our routes. It almost works.
+
+What to do next:
+Continue to fix them if there are some sprint 1 errors. Combine frontend and backend to find problems. After that, may start working sprint2 such as designing some APIs.
+
+Week 4
+Have a long meeting about mocking more data and searching some images from the internet. Combine backend and frontend to see if there are some problems existing. We almost test all functions on backend and frontend. Then we have two meetings with all group members to talk about displaying demo1.
+
+What to do next:
+Try to finish kitchen and wait staff api routes and then do some testing for sprint2.Start working on the retrospective a.
+
+Week5
+Have a retro meeting with all group members after demo A. Then split sprint2 tasks. Finish all sprint2 back-end and test apis with front-end . It should work and do some basic apis for manager.
+
+What to do next:
+Finish all sprint3 back-end and then test them with front-end. Start working on report.
+
+Week 6
+Finish all sprint2 apis and some sprint3 apis such as sales report. Test all finished apis with front-end. Looks fine.
+
+What to do next:
+Finish all sprint3 and test with front-end. Then starting report.
+
+week7
+Have several meetings for preparing demoB and debug some errors with combining. Write some sprint3 apis for back-end and then test them. Finally combine them with front-end.
+
+What to do next:
+Finish all sprint3 and test with front-end. Finish report and try to run project in vlab.
+
+week8
+Almost finished all sprint3 backend except upload image and test all. Write the third libraies for report.
+
+What to do next:
+Finish all code part and test them. Try to finish report and prepare for final demo.
+
+week9
+Finished all codes for project and test it well. Write some the third party library and some screenshots with functionalities for report.
+
+What to do next:
+Finish report and submit. Submit our project code and then we are done.

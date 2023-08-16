@@ -1,0 +1,50 @@
+import os
+import string
+
+EMPTY = 0
+USING = 1
+CLEANING = 2
+
+READY_PREPARE = 0
+PREPARING = 1
+READY_SERVE = 2
+COMPLETED = 3
+
+DIGITS_CHARACTERS = set(string.digits)
+UPPERCASE_CHARACTERS = set(string.ascii_uppercase)
+LOWERCASE_CHARACTERS = set(string.ascii_lowercase)
+special_characters = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+
+IMAGE_FOLDER = 'image'
+# bp.config['IMAGE_FOLDER'] = IMAGE_FOLDER
+basedir = os.path.abspath(os.path.dirname(__file__))
+ALLOWED_EXTENSIONS = set(['png', 'jpg', 'JPG', 'PNG', 'gif', 'GIF'])
+
+private_key = '''-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD5vS/pLjAavsc6
+Xg4H6gXLfF4JSGnVyEB0srqMoR6VusI/VEuuLCOvlEXuyK/MkizM72hXmqW6WyJe
+c/rXXyIAzysmHqbYHbgQ8ULQJcP8no+J57LWyscYNRHxFoqkiI397FSiiVF797X/
++ZCUdWpwarG+zaYZorqcjq8por0MlfR6UpfUHZxxxv0ZKAsz87riyvicbqr0S00c
+/iG3uKjeCnvSUrQAPwwk70z6uKrq7yQ5cxW/aZcjtf1k0s6Lur3iz0W2emsda3ZQ
+k/wNcd3Zp7/GmSk0jiUcpcYoB2fAESVqhgnVt1KRtoc122DLF0saM0Dssgc4/TCg
+/VuJ+QJVAgMBAAECggEAdTg4icF1MMiFKL9G5K4ShD1ewgqsKnzwzBWr/CAQBAWB
+8Um2sAzlvx7gaEDoSyP9RT/GAQCEc2EdU6oqffaYNjsHLMBMXbotUD59tsdTI3ql
+Mvx+89R/+LvILRoAf1PdGedYnmXHymEtmvVfyF8IU7WwsjdClFvOLXfHfcp147Z9
+iRfn2zUB3Z0FnIeJ+KAlbXdJwsNkSP5YrGZPo4LMvm9owdSt7hbQuXFTyOhLiUlP
+GLmNEe9uE7m4qoFnuSBu5sJvvdUjFEQMiVsAQDhZ3bj6BMDd8RUdnoUpRZRrGBpB
+XyPRPc5KV+HGgBarjMMrfqIaOIQcCVPLBf7eihTn4QKBgQD+OIBdBH8YA2erA4te
+mjd9XSMgFdQMnssLdSFsvb5ZObv6HSii73j0DI+B0UOuAjuO8R5Iqn4vCTjwQxt0
+8tyV7jOM4vKmVgZAVI9FuuiZ/oP6tlOOrSNl+hRo7/wuZnX4dJR2uA7RpaC6RBBy
+DsVigJdrMxhdVIFZdxSw2vd3DQKBgQD7fKfadrKF+VI4Nt/sBdkvQLEU4vAUO1Sm
+mR2DBQaq4F3tGH6qAUeqFwJIfiKNdhKLfKwz7HpKdVorahXwQh+6Bo54BNUMsjsa
+IGgzCZY9GyfVS01pk/up/cTOOGM7+bsv8fKJcLOHgO99fCo5nYv0ODEtrW4vCULW
+sOvVQrJmaQKBgQCVPgJNmTgrlsQjZ19IWGy/EhBu46GrDwXQYiEPP40hwH0UZk3W
+6ZMuYrlU0s9StkjUr8TBkCWn41gj5KGX1IOfGUn2Kb2d3N6qoXnCy+mFjh9Y7fS7
+y/T+BwQ4XrrDWq9i/r2xvHgmp39mGlM1QmqqWyeJbWOeVt/g78Gb2dBxeQKBgQDT
+a+DRUKiU6R2uFLP7gI8ton08yex7lcV8qYyd8UPBtA5CnS0fTyQoYl+RAjmaI4FD
+svQyUsQchLvhc7Yt3ek+QvTTAXz6x3vYYxY2kgC0Lng2YLAb6kTQjH8/vzft2+z6
+SbVUxmKnsEWmgRQei8x07Cir9fmDoY2HYAVjrEa+wQKBgAtPwmeAV8fWmil+sMT0
+4BJc2HilKq1oaZTcdHPm4gF9N63UO3+lJCH8a0FNd0rBcdDdKEyzCDqu0cdUHiLO
+ES41p2JuhuhyqS+Kj4bFZTmepdjryC88hQqG9DWLgwn1muOTSsa1uoFg2/0Ez2as
+kP06r5PQ9vNJAs3aJDPZVtYp
+-----END PRIVATE KEY-----'''

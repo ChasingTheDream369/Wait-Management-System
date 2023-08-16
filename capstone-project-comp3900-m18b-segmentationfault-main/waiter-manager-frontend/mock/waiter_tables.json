@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 1,
+            "name": "A1",
+            "needAssist": "true"
+
+        },
+        {
+            "id": 2,
+            "name": "A2",
+            "needAssist": "true"
+        },
+        {
+            "id": 3,
+            "name": "A3",
+            "needAssist": "true"
+        },
+        {
+            "id": 4,
+            "name": "B1",
+            "needAssist": "false"
+        },
+        {
+            "id": 5,
+            "name": "B2",
+            "needAssist": "false"
+        }
+    ]
+}

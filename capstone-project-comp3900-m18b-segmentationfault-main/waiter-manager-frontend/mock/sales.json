@@ -1,0 +1,111 @@
+{
+    "code": 200,
+    "data": {
+        "restaurant_name": "MkDonuts",
+        "total_customers": 12345,
+        "total_items_cooked": 234567,
+        "total_income": "3456789.01",
+        "customer_average_cost": "24.63",
+        "total_categories": 12,
+        "total_dishes": 154,
+        "total_staff": 34,
+        "total_tables": 25,
+        "annual_sales": [
+            {
+                "month": 10,
+                "sales": 1234
+            },
+            {
+                "month": 11,
+                "sales": 2345
+            },
+            {
+                "month": 12,
+                "sales": 3333
+            },
+            {
+                "month": 1,
+                "sales": 1414
+            },
+            {
+                "month": 2,
+                "sales": 5555
+            },
+            {
+                "month": 3,
+                "sales": 4322
+            },
+            {
+                "month": 4,
+                "sales": 1345
+            },
+            {
+                "month": 5,
+                "sales": 7777
+            },
+            {
+                "month": 6,
+                "sales": 8888
+            },
+            {
+                "month": 7,
+                "sales": 12345
+            },
+            {
+                "month": 8,
+                "sales": 7753
+            },
+            {
+                "month": 9,
+                "sales": 2345
+            }
+        ],
+        "sales_by_categories": [
+            {
+                "name": "Burger",
+                "sales": 1234
+            },
+            {
+                "name": "Beef",
+                "sales": 499
+            },
+            {
+                "name": "Vegetables",
+                "sales": 345
+            },
+            {
+                "name": "Banana",
+                "sales": 245
+            },
+            {
+                "name": "qrqwgqw",
+                "sales": 536
+            },
+            {
+                "name": "agwefg",
+                "sales": 421
+            },
+            {
+                "name": "tqwrq",
+                "sales": 689
+            },
+            {
+                "name": "hasdgfa",
+                "sales": 999
+            },
+            {
+                "name": "qerwrqw",
+                "sales": 1234
+            }
+        ],
+        "customers_weekly": [
+            150,
+            78,
+            67,
+            55,
+            44,
+            112,
+            120
+        ]
+    }
+}

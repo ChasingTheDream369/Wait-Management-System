@@ -1,0 +1,57 @@
+div.menu-wrapper {
+    height: 100vh;
+    background-color: #001529;
+    overflow: auto;
+    user-select: none;
+}
+
+div.menu-wrapper::-webkit-scrollbar,
+.MuiStack-root::-webkit-scrollbar,
+p::-webkit-scrollbar {
+    width: 0;
+}
+
+div.menu-logo {
+    margin-top: 20px;
+    height: 120px;
+    font-family: "Anton";
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    line-height: 120px;
+}
+
+.ant-menu.ant-menu-dark {
+    padding: 20px;
+    transition: all 0.1s ease-out;
+}
+
+li.ant-menu-item {
+    height: 100px !important;
+    border-radius: 20px;
+}
+
+li.ant-menu-item > span {
+    font-family: "Anton";
+    font-size: 32px;
+}
+
+li.ant-menu-item:last-child {
+    color: #a20014;
+}
+li.ant-menu-item:last-child:hover {
+    color: #f20014;
+}
+
+.ant-menu-inline-collapsed {
+    min-width: 80px;
+    padding: 0 !important;
+    padding-top: 190px !important;
+}
+
+.ant-menu-inline-collapsed .ant-menu-item {
+    height: 80px !important;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+}

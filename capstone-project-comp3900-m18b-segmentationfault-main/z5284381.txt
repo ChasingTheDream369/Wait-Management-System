@@ -1,0 +1,220 @@
+Week 1:
+
+Group formed in the week 1 lab. 
+
+Monday : Jira account created. Discussed about the technologies to be used in the project. 
+Decided the project outcomes and what are the challenges that the user faces. Wrote the User stories for customer and fixed it.
+
+Tuesday: User stories for wait staff fixed. Compiled all the user stories in the pdf file.
+
+Wednesday : As the scrum master wrote all the user stories on jira with acceptance criteria, dedicated a story point to each user story.
+Divided all user stories into sprint 1 and backlog. 
+
+Thursday : Researched extensively, the solutions in the domain of wait management system and wrote the benefits and the drawbacks of each of the solutions. 
+Started the project proposal.
+
+Friday: Decided that we will use python for the backend, flask for the backend server, sqlalchemy for the orm, pymysql for the db connector and mysql as the backend database.
+Wrote all the user stories in the project proposal. Divided the sprints. Decided on the managers and wait staff project objectives. Created three novel functions.
+
+Saturday : Wrote the sprints, project objectives and the novel functions on project proposal as the scrum master. Researched about the interface and flow diagrams and tried some.
+Wrote what we bring as the solution exclusively compared to the other functionalities.
+
+Sunday : Worked on the manager's interface and flow diagram. wrote the backend technologies. Compiled all the interface and flow diagrams and the frontend tech work. Created a 
+small prototype of the software architecture and updated in the project proposal. The project proposal almost done and the user stories are completed on jira. 
+
+What to do next week?
+
+1) Softwware architecture diagram.
+2) Backend tech stack writeup.
+3) External actors understanding and writeup.
+4) Confirm whether epic stories are needed or not.
+5) Start learning the backend technologies and start working on sprint 1.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 2: 
+
+Monday : Had a meeting with all the members in the lab, after the group presentation with the mentor and discussed about the ER desing of the backend and proposed the basic things in the backend and created the sql tables for it.
+
+Tuesday: Revised sql, er, er -> rel mapping and er -> sql mapping. Tried to fix the proposal as much as possible and got done with the major part of the proposal.
+
+Wednesday : Discussed the ER diagram with the backend team, found the pitfalls in it. Had a long meeting of 4 hours and wrote about 37 points that were problematic in our design.
+
+Thursday : Had a small argument with the group members in the morning, discussed together and fixed all the problems with the ER design. Had a meeting again and discuseed all the potential problems and had the major ER diagram done. Then as the scrum master based on the points 
+• Represents management to the project
+• Responsible for enacting Scrum values and practices
+• Removes impediments
+• Ensure that the team is fully functional and productive
+• Enable close cooperation across all roles and functions
+• Shield the team from external interferences
+Tried to resolve the entire issue in the evening and made sure that something of this sort never happens again for the benefit of the team.
+
+Friday : Fixed the user stories and understood, how the things are being mapped to the frontend and had to change the user stories for each of these things wherever required.
+
+Saturday : Fixed more user stories, completed all the user stories. Changed the ER design a bit and got the desgin finalised for now and then fixed the project proposal completely and now we have the entire project proposal in hand. Then revised the flask and sql alchemy and looked into the problems with the databased creation in the backend.
+
+Sunday : Fixed all the databases that were created in the sql alchemy, started the sprint on jira, revised the user stories and had the correct rerpresentaion of the database tables in the flask with default values set wherever required, nullable = false for all the foreign keys, lazy = True for all the relationships, adding the unique keyword and __repr__ function for all the database classes. Then looked at the api created by the frontend group and implemented 60 % of the api on the backend using flask and sql alchemy.
+
+What to do next week?
+
+1) Complete the project proposal.
+2) Have all the things in flask and sql alchemy sorted.
+3) complete all customer user stories in the backend.
+4) update the api and add for login and other functionality as required and map it easily in the backend.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 3:
+
+Monday : Showcased the proposal to the tutor and then had a group meeting with the members and discussed all the design issues and how will the frontend interact with 
+the backend, wrote the api document and edited it with the discussion with the group and continued with writing the backend based on the api using flask and sqlalchemy.
+
+Tuesday : Added more things in the api as required and fixed the previous things, and had a combined meeting to implement all the functions in the api and got done with 95% of the backend.
+
+Wedemsday : Started doing testing for the backend, found some bugs and then fixed it. Made some more changes to accomodate with the new api. Changed the queue api to find a better design and added the que_type to deal with it, wrote the new enqueue, leave_queue and queue and fixed other small changes in the api.
+
+Thursday : Did all the testing for the backend and seemed like all the things in the sprint 1 are working. Fixed the user stories to have the same things in the backend as frontend and then fixed the proposal as well.
+
+Friday : Had group meeting again to discuss all the things, fixed the image api and then had the waiter_assistance in the backend. Fixed the project proposal and had a better background, fixed all the typos and added references in all of the proposal.
+
+Saturday : Just did more testing and tried to find any bugs and completed the entire sprint 1 testing. Fixed the last minute changes in the proposal and submitted it.
+
+Sunday : Discussed the things to do the next week, and seemed like we are doing well. Update the jira user stories and moved every user story in doing and then just had some rest and tried to take things easy as we are going well.
+
+What to do next week?
+1) Test the image url with combined frontend and backend, and see if it is working.
+2) Add the manager image entering api.
+3) Make the main page working, and add the route for it to give back the restaurants and their specialities.
+4) Fix the ingrediants json parsing.
+5) Have combined front end and back end testing and make sure everything is working.
+6) Have combined meetings to discuss who will present what in the week 5 demo.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 4:
+
+Monday : Fixed the UI to have the login page similar to the inner application, then we added the assitance route to the backend, we fixed the image url and added the new route for images and added the images in the backend directory and tested it properly.
+
+Tuesday : Fixed the img url that we are storing on the backend, and sent the entire url of the image that is stored on the backend to the fronted.
+
+Wednesday : Main page was fixed and we added a carousel, and location to it.
+
+Thursday : We added the specials to the main page and then also added a restaurant information and address on the main page. Then we tested the entire frontend with the backend thoroughly, fixed the bugs.
+
+Friday : Had a group meeting with both the frontend and backend team and discussed about all the changes and then fixed the small problems with the frontend and discussed how to have the demo.
+
+Saturday : Worked for 10 hours and created the entire mock data for the application. Added four restaurants with 2 restaurants having 10 categories and 2 having 5 categories and first 2 having more elements than other and completely tested that everything was working with the frontend. 
+
+Sunday : Fixed the ingredients problem, fixed the image in the description issue and then fixed the queue disappearing problem. Had a group meeting to discuss about the demo and did mock demo for 2 times and should be all set for tomorrow.
+
+What to do next?
+1) Get the demo done tomorrow and get the feedback.
+2) Start working on the retrospective a).
+3) Start with the sprint 2 and create the sprint 2 on jira and move the wait staff and kitchen staff user stories to it.
+4) Create the sprint 2 api on apifox.
+5) Start creating the routes for sprint 2 on the backend.
+6) Do some testing for the routes of sprint 2.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 5:
+
+Monday : Got the meeting for the retrospective A done after the demo A was done and had a small meeing regarding the sprint 2.
+
+Tuesday : Worked on Sprint 2 and fixed all the problems with the API in sprint 2.
+
+Wednesday : Improved the frontend UI for the wait staff and kitchen staff and updated the database to reflect the changes.
+
+Thursday : Tested the frontend with the backend and everything seemed to be working for sprint 2.
+
+Friday : Started with the manager login and user register.
+
+Saturday : Got some work on the retro A done, need to work a little more to get the final output done.
+
+Sunday : Created a new file strucutre for the backend and divided all the files in the backend into new directories and need to do commenting, plus finishes all the testing required for sprint 2.
+
+What to do next?
+1) Get the retro A doc completely finished.
+2) Have combined testing meetings and fix all the problems with sprint 2.
+3) Need to add the sales report API.
+4) update the backend as required to deal with the sales report.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 6:
+
+Fixed the backend API for sprint 2. Added the sales report on the frontend and the backend. Tested the entire sprint 2. Got done with sprint 2. 
+
+What to do next:
+1) Fix the UI for Kitchen staff and wait Staff.
+2) Decide on the color code for the staff UI.
+3) Start writing the report.
+4) Get the API for the sprint 3 started.
+5) Have combined testing meetings for sprint 2.
+6) Have combined meetings to prepare for the demo B.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 7:
+
+Tested more about sprint 2. Added the staff add and delete in sprint 2. Prepared for the demo B, had 3 meetings and decided what to present and overall all set for the demo B on monday. Got started with the API for sprint 3 and started with some APIS for it.
+
+What to do next:
+1) Get the demo B done.
+2) Get the retro B done.
+3) Get the API for sprint 3 done.
+4) Find the design decisions to find a way to delete the items and categories.
+5) Get the sprint 3 done.
+6) Do some testing for sprint 3.
+7) Start with the report.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 8:
+
+Started with the sprint 3 APIs, got done with all the sprint 3 APIs on the backend except the Upload image about which we need to do a bit more research. Found a way on deleting the items and categories and fixed the desing decision with setting the status field to 0 when the item is deleted. Worked on the report for backend a bit. Completed the Retro B. Made a design decision on update, add and delete table to be only available when  no one is using the restaurant and the same is for update, delete or add item /categories. Got the entire project getting run on VM, and also set up the MySQL on it. Only left with some parts of the frontend for sprint 3 and then we are done.
+
+What to do next:
+1) Get the sprint 3 completely done and test it properly.
+2) Research more about upload image and try to complete that in the monday lab.
+3) Start with the frotnend specific implementation for update item, categories and table.
+4) Work more on the report.
+5) Finish the sprint 3 stuff before friday and spend 3 days for final demo practice.
+6) Work on creating the mock data for sprint 3.
+7) Fix the mock data where the images are abnormal in size.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+
+Week 9:
+
+Completed the entire sprint 3, and did all the testing. Fixed the image sizes issue on the frontend for all the images. Wrote more than 70 % of the report. Fixed the backend code wherever there were any duplicates. Created the presentation slides for the final presentation introduction. Did combined practice for final demo 3 times.
+
+What to do next:
+
+1) Complete the report.
+2) Complete the software quality by making changes in the software wherever required.
+3) Complete the entire peer marking.
+4) Complete the Final Demo on Monday.
+5) Fix all the issues related to building the files on VM.
+6) Properly test the system on VM.
+
+All obstacles were resolved through brainstorming with the team or asking on the forum.
+
+Overall, happy with the progress and lets hope to continue with the same spirit.. Cheers..!!
+

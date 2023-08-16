@@ -1,0 +1,42 @@
+html,
+body,
+.App,
+#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: "roboto";
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:hover {
+    color: inherit;
+}
+
+input {
+    display: block;
+}
+
+ul::-webkit-scrollbar,
+.MuiStack-root::-webkit-scrollbar,
+p::-webkit-scrollbar {
+    width: 0;
+}
+
+button {
+    user-select: none;
+}

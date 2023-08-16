@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "data": {
+            "orders":[
+            {
+                "orderID": 0,
+                "tableName": "A1",
+                "itemName": "Chicken Soup",
+                "quantity": 3
+            },
+            {
+                "orderID": 1,
+                "tableName": "B1",
+                "itemName": "Spicy Oil Soup",
+                "quantity": 2
+            
+            },
+            {
+                "orderID": 2,
+                "tableName": "C1",
+                "itemName": "Mushroom Soup",
+                "quantity": 3
+            }
+        ]
+    }
+}

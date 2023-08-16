@@ -1,0 +1,151 @@
+{
+    "code": 200,
+    "data": {
+        "id": 1,
+        "name": "MkDonuts UNSW",
+        "address": "afafa",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur minus quod error iste, amet necessitatibus consectetur architecto ad rerum libero quibusdam explicabo ea voluptatibus neque totam quis sint doloremque magnam exercitationem quam ex recusandae voluptate perspiciatis. Sit qui ducimus, voluptate ratione asperiores exercitationem suscipit sint optio atque sed ex eius doloribus ad repudiandae modi sequi quas consequuntur. Assumenda nesciunt, aperiam eum odit, earum dolores minus fugiat et quasi quibusdam exercitationem tempore? Ipsam, facilis illum officiis sequi blanditiis fugiat at vero aspernatur rerum. Provident consectetur, fuga aperiam perspiciatis commodi a mollitia! Distinctio ex ipsa expedita ducimus ad enim dolorem consequatur odio!Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi delectus ratione enim harum debitis error commodi libero fugiat et, ullam autem? Voluptas incidunt, delectus adipisci nulla consectetur quas repellat neque veniam tempore, qui saepe laboriosam quia sint. Tenetur, corporis. Et fugiat odio consequatur saepe, soluta quas, dolorem illum sit adipisci quod voluptates rerum. Libero dicta magni explicabo quasi alias eaque dolorem sint id perspiciatis animi esse quis, sit soluta saepe odio consequuntur impedit, dignissimos, autem quibusdam inventore? Velit, pariatur incidunt? Quia, inventore officiis nostrum numquam architecto, dolorum, nesciunt odio molestiae deserunt necessitatibus voluptatum fugit magnam consequuntur facilis. Corrupti doloribus esse odit repellendus optio soluta ullam eius eveniet nulla, ea enim. Cupiditate vero maxime odio quis ratione voluptatem fugit repellat est nostrum, nisi atque, officia deserunt repudiandae, eveniet hic impedit! Doloremque voluptatem eaque non at illo eveniet exercitationem dolores quos ipsum, nostrum consectetur facilis esse dolorum ratione itaque debitis voluptates veritatis consequatur odio harum odit! Illum ad fugiat, accusantium, iste animi maxime magnam labore incidunt placeat voluptate ab odit, enim dolore facilis quia officiis architecto. Rem assumenda ut obcaecati quisquam possimus autem architecto doloremque earum numquam ipsam explicabo labore, laborum quaerat sunt. Blanditiis delectus ipsam ut in sit quam ipsa aperiam nostrum impedit. Deleniti nihil veniam molestias voluptatibus tenetur in ullam officiis consequuntur perferendis temporibus! Obcaecati alias fugiat voluptate molestiae eum sunt, porro quasi cumque dicta blanditiis corporis exercitationem, vitae fugit ipsam rem magni placeat suscipit ut esse beatae, nisi ea doloribus perspiciatis quidem. Minus itaque quam voluptatem corporis. Omnis, voluptate ab. Quis perspiciatis maxime accusantium debitis recusandae qui facilis quo odit iste! Facilis autem quis dicta at minus ullam quaerat dolor voluptatum suscipit, fugit totam nesciunt voluptatem, ex expedita saepe dolores, accusantium deleniti asperiores veritatis nulla magni. Vero tempora voluptatibus sit ad. Laborum non ratione blanditiis excepturi incidunt! Minima.",
+        "img_urls": [
+            "http://localhost:5173/img/2/beef_1.jpg",
+            "http://localhost:5173/img/2/beef_wagyu.webp",
+            "http://localhost:5173/img/2/crab_stick.jpeg",
+            "http://localhost:5173/img/2/fish.webp",
+            "http://localhost:5173/img/2/oyster.jpg",
+            "http://localhost:5173/img/2/prawn.jpeg"
+        ],
+        "lat": "33.9173",
+        "lon": "151.2313",
+        "specials": [
+            {
+                "id": 3,
+                "name": "kafafa",
+                "price": 14.13,
+                "description": "this is a food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/crab_stick.jpeg",
+                "speciality": true,
+                "index": 0,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            },
+            {
+                "id": 4,
+                "name": "gafafa",
+                "price": 16.13,
+                "description": "this is another food",
+                "ingredients": "meat, vegetables",
+                "stock": 99,
+                "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+                "speciality": true,
+                "index": 1,
+                "r_id": 4,
+                "cat_id": 3
+            }
+        ]
+    }
+}

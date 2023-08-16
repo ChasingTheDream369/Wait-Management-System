@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "name": "Restaurant 1",
+            "id": 1
+        },
+        {
+            "name": "Restaurant 2",
+            "id": 2
+        },
+        {
+            "name": "Restaurant 3",
+            "id": 3
+        },
+        {
+            "name": "Restaurant 4",
+            "id": 4
+        },
+        {
+            "name": "Restaurant 5",
+            "id": 5
+        }
+    ]
+}

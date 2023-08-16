@@ -1,0 +1,613 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 0,
+            "name": "Chicken Soup",
+            "price": 20,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 33,
+            "img_url": "http://localhost:5173/img/1/chicken_soup.webp",
+            "speciality": false,
+            "index": 0,
+            "r_id": 4,
+            "cat_id": 1
+        },
+        {
+            "id": 1,
+            "name": "Mushroom Soup",
+            "price": 90,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 459,
+            "img_url": "http://localhost:5173/img/1/mushroom_soup.webp",
+            "speciality": false,
+            "index": 1,
+            "r_id": 4,
+            "cat_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Spicy Soup",
+            "price": 34,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 201,
+            "img_url": "http://localhost:5173/img/1/spicy.webp",
+            "speciality": false,
+            "index": 2,
+            "r_id": 4,
+            "cat_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Tomato Soup",
+            "price": 80,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 456,
+            "img_url": "http://localhost:5173/img/1/tomato.webp",
+            "speciality": false,
+            "index": 3,
+            "r_id": 4,
+            "cat_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Tom Yum Soup",
+            "price": 5,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 948,
+            "img_url": "http://localhost:5173/img/1/tomyum.jpeg",
+            "speciality": false,
+            "index": 4,
+            "r_id": 4,
+            "cat_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Snow Beef",
+            "price": 18,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 566,
+            "img_url": "http://localhost:5173/img/2/beef_1.jpg",
+            "speciality": false,
+            "index": 0,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 6,
+            "name": "Wagyu Beef",
+            "price": 77,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 178,
+            "img_url": "http://localhost:5173/img/2/beef_wagyu.webp",
+            "speciality": false,
+            "index": 1,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 7,
+            "name": "Crab Stick",
+            "price": 64,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 581,
+            "img_url": "http://localhost:5173/img/2/crab_stick.jpeg",
+            "speciality": false,
+            "index": 2,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 8,
+            "name": "Egg",
+            "price": 44,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 419,
+            "img_url": "http://localhost:5173/img/2/egg.jpeg",
+            "speciality": false,
+            "index": 3,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 9,
+            "name": "Basa Fillet",
+            "price": 7,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 309,
+            "img_url": "http://localhost:5173/img/2/fish.webp",
+            "speciality": false,
+            "index": 4,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 10,
+            "name": "Fishball",
+            "price": 3,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 777,
+            "img_url": "http://localhost:5173/img/2/fishball.jpeg",
+            "speciality": false,
+            "index": 5,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 11,
+            "name": "Deep Fried Pork",
+            "price": 71,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 257,
+            "img_url": "http://localhost:5173/img/2/fried_pork.jpg",
+            "speciality": false,
+            "index": 6,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 12,
+            "name": "Lamb Shoulder",
+            "price": 56,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 206,
+            "img_url": "http://localhost:5173/img/2/lamb_shoulder.webp",
+            "speciality": false,
+            "index": 7,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 13,
+            "name": "Lunch Meat",
+            "price": 94,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 441,
+            "img_url": "http://localhost:5173/img/2/lunch_meat.jpeg",
+            "speciality": false,
+            "index": 8,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 14,
+            "name": "Oysters",
+            "price": 18.88,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 221,
+            "img_url": "http://localhost:5173/img/2/oyster.jpg",
+            "speciality": false,
+            "index": 9,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 15,
+            "name": "Prawn",
+            "price": 40,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 491,
+            "img_url": "http://localhost:5173/img/2/prawn.jpeg",
+            "speciality": false,
+            "index": 10,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 16,
+            "name": "Shrimp Paste",
+            "price": 54,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 360,
+            "img_url": "http://localhost:5173/img/2/shrimp_paste.webp",
+            "speciality": false,
+            "index": 11,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 17,
+            "name": "Spicy Beef",
+            "price": 27,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 123,
+            "img_url": "http://localhost:5173/img/2/spicy_beef.webp",
+            "speciality": false,
+            "index": 12,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 18,
+            "name": "Baby Squid",
+            "price": 74,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 503,
+            "img_url": "http://localhost:5173/img/2/squid.jpg",
+            "speciality": false,
+            "index": 13,
+            "r_id": 4,
+            "cat_id": 2
+        },
+        {
+            "id": 19,
+            "name": "Bamboo Shoots",
+            "price": 42,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 869,
+            "img_url": "http://localhost:5173/img/3/bamboo.jpg",
+            "speciality": false,
+            "index": 0,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 20,
+            "name": "Sweet Corn",
+            "price": 45,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 231,
+            "img_url": "http://localhost:5173/img/3/corn.jpg",
+            "speciality": false,
+            "index": 1,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 21,
+            "name": "Glass Noodles",
+            "price": 42,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 714,
+            "img_url": "http://localhost:5173/img/3/glass_noodle.jpeg",
+            "speciality": false,
+            "index": 2,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 22,
+            "name": "Lettuce",
+            "price": 44,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 428,
+            "img_url": "http://localhost:5173/img/3/lettuce.jpg",
+            "speciality": false,
+            "index": 3,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 23,
+            "name": "Mushroom",
+            "price": 4.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 438,
+            "img_url": "http://localhost:5173/img/3/mushroom.jpeg",
+            "speciality": false,
+            "index": 4,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 24,
+            "name": "Potato",
+            "price": 3.99,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 170,
+            "img_url": "http://localhost:5173/img/3/potato.png",
+            "speciality": false,
+            "index": 5,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 25,
+            "name": "Seaweed",
+            "price": 4.3,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 945,
+            "img_url": "http://localhost:5173/img/3/seaweed.jpeg",
+            "speciality": false,
+            "index": 6,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 26,
+            "name": "Soybean Rolls",
+            "price": 6.0,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 187,
+            "img_url": "http://localhost:5173/img/3/soybean_roll.jpeg",
+            "speciality": false,
+            "index": 7,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 27,
+            "name": "Spinach",
+            "price": 9.3,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 284,
+            "img_url": "http://localhost:5173/img/3/spinach.webp",
+            "speciality": false,
+            "index": 8,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 28,
+            "name": "Tofu",
+            "price": 4.9,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 344,
+            "img_url": "http://localhost:5173/img/3/tofu.jpeg",
+            "speciality": false,
+            "index": 9,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 29,
+            "name": "Tofu Skin",
+            "price": 8.4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 40,
+            "img_url": "http://localhost:5173/img/3/tofu_skin.jpeg",
+            "speciality": false,
+            "index": 10,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 30,
+            "name": "Wide Glass Noodles",
+            "price": 8,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 60,
+            "img_url": "http://localhost:5173/img/3/wide_vermi.jpeg",
+            "speciality": false,
+            "index": 11,
+            "r_id": 4,
+            "cat_id": 3
+        },
+        {
+            "id": 31,
+            "name": "Winter Melon",
+            "price": 6.7,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est alias accusantium itaque dignissimos! Voluptate odit repudiandae fugiat quisquam ab. Sit vitae illo rem sapiente vero praesentium sunt vel quidem laboriosam, perspiciatis aliquid fugiat voluptatibus totam blanditiis suscipit ad eveniet dolore. Quos blanditiis illum deleniti quo adipisci quibusdam cum cupiditate atque possimus, voluptatibus animi consequuntur quasi recusandae maiores eligendi tempore porro officiis architecto dolor voluptates illo inventore ad magnam temporibus! Dolore vitae commodi eos molestias illo cum corporis facere repellat delectus. Velit quisquam tenetur amet consectetur, atque expedita nemo? Perferendis, recusandae! Ad minus quod praesentium. Beatae alias rerum maiores quam repudiandae possimus nam laudantium, quae similique aliquid temporibus ipsam sapiente, libero eaque qui sint aperiam veritatis blanditiis hic corrupti culpa itaque? Nobis, cupiditate repellat? Accusantium nihil nesciunt, accusamus dolorum dicta laboriosam ex maiores quibusdam nulla quod tempore nostrum excepturi at rerum eaque atque veniam quia ea fuga commodi quasi perspiciatis vel? Natus saepe minima delectus optio tempore laboriosam quidem fugiat quisquam iste praesentium? In, aliquam quidem beatae voluptatem dolorem mollitia voluptas molestiae ducimus et impedit facere, assumenda blanditiis sint rem dicta fugit ipsum inventore! Fuga aspernatur dignissimos laborum totam nam vitae sapiente, necessitatibus at quae, repellat sequi, corporis molestiae voluptate sunt.",
+            "ingredients": [
+                "chicken",
+                "peanut",
+                "pepper",
+                "garlic",
+                "chilli"
+            ],
+            "stock": 757,
+            "img_url": "http://localhost:5173/img/3/winter_melon.jpg",
+            "speciality": false,
+            "index": 12,
+            "r_id": 4,
+            "cat_id": 3
+        }
+    ]
+}

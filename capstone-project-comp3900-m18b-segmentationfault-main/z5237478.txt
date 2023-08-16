@@ -1,0 +1,177 @@
+Week 1
+
+12/09/2022 
+attend lab finalise project and group, discuss what we need to do in week1 (decide scrums, talk about user stories), have a meeting after lab with teammates, discuss the platform that we chat for team, learn python flask myself.
+
+13/09/2022
+Write user stories for manager, upload them on teams group file. learn python flask myself.
+
+14/09/2022
+Write background for project with Chenggao, find existing system with Shubham, Chenggao, Anmiao. Revise Postgresql knowledge
+
+15/09/2022
+Continuing analysis on existing system, find their advantange & disadvantanges. Revise FLASK for Python
+
+16/09/2022
+Improve user stories, analyze solutions from our system, have meeting to discuss sprints, think about novel features. Write objectives from manager and customer perspective
+Study sqlalchemy myself, revise flask
+
+17/09/2022
+Writing novel functions in proposal, find the libraries we might use for back-end.
+
+18/09.2022
+Design and implement UI + flow diagram for waiter. Add them to proposal. Also write business layer , data layer description. Find problems in current user stories
+
+i think our teams have done all of the planning for week 1. it is really good and we need to work harder in the future weeks
+
+What to do next week?
+
+1 Softwware architecture diagram.
+2 Backend tech stack need to think about more.
+3 External actors understanding and writeup.
+4 model and design ER diagram for database 
+5 start create tables for the database we have considered.
+
+Week2 
+
+19 / 09 / 2022
+
+summaries what our teams done in week1, attend lab and ask tutor about proposal / project. discussion on Db table creating. update on Architechture diagram, create github account for myself and join team
+
+
+20 / 09 / 2022
+
+creating UI interface for waiter, update user stories, have metting with Shubham, Chenggao
+
+21 / 09 / 2022
+
+have metting about DB design for backend, also update user stories. update ER diagram for DB
+
+22 / 09 / 2022
+
+have metting about DB design for backend, also update user stories. update ER diagram for DB
+
+22 / 09 / 2022
+
+have metting about DB design for backend, also update user stories. update ER diagram for DB
+
+
+24 / 09 / 2022
+
+strat wroking on backend, use SQL-Alchemy create tables for DB, upload ER diagram and code on github (back-end branch)
+
+25 / 09 / 2022
+
+have a look at what api back-end need to do, revise flask .
+
+
+WTD:
+ 1. start working on backend code in week3.
+ 2. update proposal if it is need to do 
+
+
+Week3
+
+26 / 09 / 2022
+
+summaries what we have done in week 2, attend lab and ask tutor about proposal / project. start work on backend Api implement, finish 5 api without error handling
+
+27 / 09 / 2022
+
+continue to work on back-end, have a meeting with back-end group code for back-end API. found some small issuse in DB design and fix it
+
+28 / 09 / 2022
+finish all of the api for sprint1, except for assistance api and image api, add error handing for API we have create. trying to do some http test using pytest
+
+29 / 09 / 2022
+dont do httptest using pytest (time comsuing), intead of using ARC to test our back-end API. fix all of the bugs we have in Sprint1. in meeting we also finish image api
+
+30 / 09 / 2022
+add 2 routes for assistance api, also change some small detail so that back-end can work fine with front-end. find the problem in proposal
+
+01 / 10 / 2022
+take a rest since we all have done almost everything in sprint1, fix the proposal and submit it first time
+
+01 / 10 / 2022
+delete the file / directory we dont use anymore in back-end, ready to combine / merge with front-end
+
+WTD:
+1. find if there is still some bug in back-end or front-end in week4, debug
+2. combine front-end with back-end and test them again
+3. take a short break and work on other subject , start work on sprint2 after week5 lab
+
+
+week4:
+
+03 / 10 /2022
+
+conlcude what we have left for sprint1, have a meeting discuss about image problem, also the main page problem
+
+04 / 10 / 2022
+
+fix the image problem using flask_cors, and implement the main page api
+
+05 / 10 / 2022
+
+finish all of sprint1
+
+06 / 10 / 2022
+
+finish all of sprint1
+
+07 / 10 / 2022
+
+mock data for sprint1 , prepare for demo
+
+08 / 10 / 2022
+
+have a group meeting discuss what we need to do in demo
+
+
+WTD:
+1. summary what we have done in sprint1
+2. going to work on sprint2
+
+
+week5:
+
+finish sprint2 api for backend, add session, start working on sprint3, start working on retro meeting
+
+WTD:
+1.start working on sprint3
+2. start working on report
+
+
+week6:
+
+start working on sprint3 apis, finish sales report and register part. debug with front-end. split files(what i assigned to improve from sprint1)
+
+WTD:
+1. finish all of work for sprint3
+2. start working on report
+
+
+week7:
+prepare for demo2 , start working on running our system on vlab/ vm (not done yet).start think about report
+
+WTD:
+1. finish sprint3
+2. start report
+
+week8:
+finish all of apis for sprint3 except upload image, have a retro b meeting and start working on how to setup our system on VM and work on report
+
+WTD:
+1. finish upload image api
+2. test for all of the functions we have
+3. start working on report
+4. prepare for final demo
+
+
+week9
+finish all sprint3 apis for back-end and fix bugs, using arc testing and test with front-end, start working on report, write down the difficuties for our project in report
+write down libraires we used in report
+
+WTD:
+1. finsih report
+2. test system on VM and write down necessary info for it
